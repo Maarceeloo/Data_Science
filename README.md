@@ -19,7 +19,7 @@ Sou formado em ciências contábeis pela Universidade de Caxias do Sul e com pó
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/marcelo-ramos-cea-58901076)
-* [Medium](https://medium.com/@marceloramos.ucs)
+* [Medium](https://medium.com/@maarceeloo)
 
 
 ## Projetos:
