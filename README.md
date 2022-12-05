@@ -23,7 +23,7 @@ Sou formado em ciências contábeis pela Universidade de Caxias do Sul e com pó
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os tutoriais publicados:
 
 * **Em construção!** 
 
