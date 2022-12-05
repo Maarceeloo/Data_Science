@@ -25,6 +25,7 @@ Sou formado em ciências contábeis pela Universidade de Caxias do Sul e com pó
 ## Projetos:
 Veja os tutoriais publicados:
 
-* **Em construção!** 
+* **Análise dos Dados do Airbnb - Chicago:** http://bit.ly/3EW6vgQ
+
 
 ---
