@@ -26,6 +26,7 @@ Sou formado em ciências contábeis pela Universidade de Caxias do Sul e com pó
 Veja os tutoriais publicados:
 
 * **Análise dos Dados do Airbnb - Chicago:** http://bit.ly/3EW6vgQ
-
-
+* **Airbnb Data Analysis - Chicago - Chicago:** https://bit.ly/3Fuk5br
+* **Panorama do COVID-19 no Mundo e no Brasil:** https://bit.ly/3j8qUYB
+* **Panorama of COVID-19 in the World and in Brazil:** https://bit.ly/3YsDty7
 ---
