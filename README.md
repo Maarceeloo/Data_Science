@@ -18,7 +18,7 @@ Sou formado em ciências contábeis pela Universidade de Caxias do Sul e com pó
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
 **Links:**
-* [LinkedIn](www.linkedin.com/in/marceloraamoos)
+* [LinkedIn](https://linkedin.com/in/marceloraamoos)
 * [Medium](https://medium.com/@maarceeloo)
 
 
